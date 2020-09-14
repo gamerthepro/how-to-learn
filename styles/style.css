@@ -234,7 +234,7 @@
   overflow: hidden;
 }
 
-.table__cell_theme_dark {
+.table__cell-theme-dark {
   width: 200px;
   color: white;
   margin-right: 0;
@@ -267,7 +267,7 @@
   margin: 0px auto 90px;
 }
 
-.table__cell_2 {
+.table__cell-2 {
   width: 200px;
   margin-top: 60px;
 }
@@ -297,7 +297,7 @@
   flex-basis: 711px;
 }
 
-.footer__columns_content-copyright {
+.footer__columns-content-copyright {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
