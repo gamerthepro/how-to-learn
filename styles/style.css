@@ -147,10 +147,11 @@
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  list-style-type: none;
 }
 
 .digits__table-1 {
-  margin: 100px auto 0px;
+  margin: 100px auto;
 }
 
 .table__cell {
@@ -262,14 +263,6 @@
   font-weight: normal;
   text-align: center;
   margin: 20px auto 0px;
-}
-
-.table {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  width: 1100px;
-  list-style-type: none;
 }
 
 .kaufman__table-2 {
