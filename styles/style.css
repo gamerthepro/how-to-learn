@@ -73,6 +73,8 @@
 }
 
 .header__square-pic {
+  height: 568px;
+  width: 568px;
   background-size: cover;
   position: absolute;
   right: 0px;
@@ -82,10 +84,6 @@
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-}
 
 .two-columns {
   margin: 100px auto 0px;
@@ -128,12 +126,11 @@
   width: 60%;
   line-height: 1.15;
   font-size: 60px;
-  width: 60%;
   font-weight: bold;
   text-align: center;
 }
 
-.section-subtitle {
+.digits__section-subtitle_1 {
   margin: 20px auto 0px;
   width: 60%;
   line-height: 34px;
@@ -151,7 +148,7 @@
 }
 
 .digits__table-1 {
-  margin: 100px auto;
+  margin: 0px auto 100px;
 }
 
 .table__cell {
@@ -250,13 +247,12 @@
   width: 60%;
   line-height: 1.15;
   font-size: 60px;
-  width: 60%;
   font-weight: bold;
   text-align: center;
   margin: 90px auto 0px;
 }
 
-.section-subtitle {
+.kaufman__section-subtitle_2 {
   width: 60%;
   line-height: 34px;
   font-size: 24px;
