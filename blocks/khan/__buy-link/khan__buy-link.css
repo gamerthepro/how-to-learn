@@ -1,12 +1,15 @@
-.header__link {
+.khan__buy-link {
   display: inline-block;
-  line-height: 25px;
-  font-size: 18px;
+  align-self: flex-start;
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
   color: #2f80ed;
+  margin: 0px;
   text-decoration: none;
 }
 
-.header__link::after {
+.khan__buy-link::after {
   content: '';
   display: block;
   width: 0;
@@ -14,6 +17,6 @@
   background-color: #2f80ed;
 }
 
-.header__link:hover::after {
+.khan__buy-link:hover::after {
   width: 100%;
 }

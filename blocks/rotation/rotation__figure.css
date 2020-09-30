@@ -6,3 +6,11 @@
       transform: rotate(360deg);
   }
 }
+
+.header-kaufman_animation {
+  animation-name: rotation;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+

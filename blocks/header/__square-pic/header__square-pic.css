@@ -5,8 +5,4 @@
   right: 0px;
   top: 64px;
   background-color: #2f80ed;
-  animation-name: rotation;
-  animation-duration: 20s;
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
 }
