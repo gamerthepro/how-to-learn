@@ -7,17 +7,9 @@
   top: 50%;
   right: 48px;
   text-decoration: none;
-  display: inline-block;
 }
 
-.feynman__link::after {
-  content: '';
-  display: block;
-  width: 0;
-  height: 2px;
-  background-color: #2f80ed;
+.feynman__link:hover {
+  opacity: 0.5;
 }
 
-.feynman__link:hover::after {
-  width: 100%;
-}
