@@ -7,7 +7,7 @@
   }
 }
 
-.rotation__figure {
+.rotation {
   animation-name: rotation;
   animation-duration: 20s;
   animation-iteration-count: infinite;
