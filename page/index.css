@@ -1,5 +1,5 @@
 @import url('../vendor/normalize.css');
-@import url('../blocks/root/page.css');
+@import url('../blocks/page/page.css');
 @import url('../blocks/header/header.css');
 @import url('../blocks/logo/logo.css');
 @import url('../blocks/logo/_place/logo_place_header.css');
@@ -8,6 +8,7 @@
 @import url('../blocks/header/__square-pic/header__square-pic.css');
 @import url('../blocks/header/__main-illustration/header__main-illustration.css');
 @import url('../blocks/header/__link/header__link.css');
+@import url('../blocks/description/description.css');
 @import url('../blocks/two-columns/two-columns.css');
 @import url('../blocks/two-columns/__brief/two-columns__brief.css');
 @import url('../blocks/two-columns/__main-text/two-columns__main-text.css');

@@ -4,6 +4,7 @@
   text-decoration: none;
   font-family: sans-serif;
   font-weight: lighter;
+  transition: .3s linear;
 }
 
 .footer__link:hover {

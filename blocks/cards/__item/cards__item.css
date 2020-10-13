@@ -9,6 +9,3 @@
   margin: 0px;
 }
 
-.cards__item:nth-of-type(5n) {
-  margin: 0px;
-}

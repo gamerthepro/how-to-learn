@@ -1,9 +1,9 @@
 .header__link {
-  display: inline-block;
   line-height: 25px;
   font-size: 18px;
   color: #2f80ed;
   text-decoration: none;
+  transition: .3s linear;
 }
 
 .header__link:hover {
