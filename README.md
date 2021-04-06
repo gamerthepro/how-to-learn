@@ -14,6 +14,12 @@
 * BEM
 * BEM nested
 
+## Инструсенты
+
+* Visual Studio Code
+* PerfectPixel
+* Git Hub
+
 ## Биф
 
 https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf
